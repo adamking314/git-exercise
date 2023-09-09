@@ -1,2 +1,3 @@
-# git-exercise
-hello world
+# git-exercise\
+please do better
+fuck sake
